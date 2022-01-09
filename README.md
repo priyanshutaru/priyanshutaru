@@ -26,9 +26,9 @@ Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Ass
  
  ### About Me 🚀
 
-- 👀 I’m interested in Open Source Project.
-- 🌱 I’m currently learning how to contribute in open source project and learning data structures and some programming languages.
-- 💞️ I’m looking to collaborate on Open Source Project.
+- 👀 I’m interested in Android Development App.
+- 🌱 I’m currently learnign dsa.
+- 💞️ I’m looking to for sde internship.
 - 📫 How to reach me : Contact me through linkedin or emaii.
 
 <!---
