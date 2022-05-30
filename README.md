@@ -26,10 +26,12 @@ Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Ass
  
  ### About Me 🚀
 
+
+- 💞️ I’m looking to for SDE internship.
 - 👀 I’m interested in Android Development App.
-- 🌱 I’m currently learnign dsa.
-- 💞️ I’m looking to for sde internship.
-- 📫 How to reach me : Contact me through linkedin or emaii.
+- 🌱 I’m currently learning DSA.
+
+- 📫 How to reach me : Contact me through Linkedin or Email.
 
 <!---
 priyanshutaru/priyanshutaru is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
