@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently Looking For **SDE Internship**
 
-- 🌱 I’m currently learning **Python's Framework**
+- 🌱 I’m currently learning **Python's Framework & DSA**
 
 - 👨‍💻 All of my projects are available at [https://github.com/priyanshutaru](https://github.com/priyanshutaru)
 
