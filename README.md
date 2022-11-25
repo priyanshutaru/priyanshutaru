@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Priyanshu</h1>
-<h3 align="center">A passionate Python developer and a Competitive Programmer :)</h3>
+<h3 align="center">A passionate Flutter developer and a Competitive Programmer :)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=priyanshutaru&label=Profile%20views&color=0e75b6&style=flat" alt="priyanshutaru" /> </p>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
@@ -12,11 +12,11 @@
 
 - 📝 I regularly solve one question On Leetcode [https://leetcode.com/priyanshutaru/](https://leetcode.com/priyanshutaru/)
 
-- 💬 Ask me about **C++ ,Python , Competitive Programming**
+- 💬 Ask me about **C++ , Flutter , Competitive Programming**
 
 - 📫 How to reach me **technicalpriyanshutaru@gmail.com**
 
-- ⚡ Fun fact **I spent my 10 hours everyday in front of my laptop.**
+- ⚡ Fun fact **I spent my 15 hours everyday in front of my laptop.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
