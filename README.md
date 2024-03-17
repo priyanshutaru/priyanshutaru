@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Priyanshu</h1>
-<h3 align="center">A passionate Flutter developer and Node.js In Back-end.:)</h3>
+<h3 align="center">A passionate Flutter developer and Node.js In Back-end :)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=priyanshutaru&label=Profile%20views&color=0e75b6&style=flat" alt="priyanshutaru" /> </p>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
